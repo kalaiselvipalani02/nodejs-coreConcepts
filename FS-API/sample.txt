@@ -1,0 +1,9 @@
+What You'll Learn Session 1: Introduction to Node.js
+
+Understanding Node.js internals and event loop
+
+Setting up your development environment
+
+Running your first Node.js application
+
+Getting comfortable with the Node.js REPL
