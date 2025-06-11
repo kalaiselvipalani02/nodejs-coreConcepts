@@ -7,7 +7,7 @@ const httpHandler = (req, res) => {
     skills: ["JavaScript", "React", "Node.js"],
   };
 
-  //set the response header to application/json
+  //set the response header to application/json, convert string value to JSON String
   res.writeHead(200, { "Content-Type": "application/json" });
   res.write(JSON.stringify(data));
   res.end();
